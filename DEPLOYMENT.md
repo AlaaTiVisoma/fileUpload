@@ -1,10 +1,11 @@
 # Deployment Instructions
 
-## 1. Push to GitHub
+## 1. Push to GitHub (Already Done ✅)
+Your code is already pushed to:
+**https://github.com/AlaaTiVisoma/fileUpload.git**
+
 ```bash
-git init
-git add .
-git commit -m "Initial commit"
+# Your repository is already set up with:
+git remote add origin https://github.com/AlaaTiVisoma/fileUpload.git
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
 git push -u origin main
